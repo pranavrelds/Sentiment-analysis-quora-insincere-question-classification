@@ -26,3 +26,4 @@ Detail information about problem statement and dataset can be found [here](https
 2. [The Illustrated BERT](http://jalammar.github.io/illustrated-bert/)
 3. [Ktrain](https://arxiv.org/pdf/2004.10703.pdf)
 4. [BERT Text Classification](https://towardsdatascience.com/bert-text-classification-in-3-lines-of-code-using-keras-264db7e7a358)
+5. [Visual Guide to Using BERT](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/)
